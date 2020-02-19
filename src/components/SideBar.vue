@@ -1,5 +1,5 @@
 <template>
-  <div class="SideBar" align="right">
+  <div class="SideBar">
     <ul>
         <li><a href="url">Sidebar 1</a></li>
         <li><a href="url">Sidebar 2</a></li>
@@ -28,6 +28,10 @@ export default {
 </script>
 
 <style scoped>
+.SideBar {
+    position:relative;
+    float: right;
+}
 ul {
     padding:0px;
     margin:0px;

@@ -21,11 +21,15 @@ export default {
 
 <style scoped>
 .image {
+    position:relative;
+    float: left;
     border-style: solid;
     width: 300px;
     height: 200px;    
 }
 .texto {
+    position:relative;
+    float: left;    
     border-style: solid;
     width: 300px;
     height: 200px;
