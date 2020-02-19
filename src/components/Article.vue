@@ -4,10 +4,7 @@
         <img src="imagem.jpg" alt="IMG" >
     </div>
     <div class="texto">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultrices viverra metus non tincidunt. 
-            Ut tortor ipsum, fringilla in ex vitae, malesuada euismod urna. Donec diam sapien, 
-            laoreet in vulputate non, feugiat sed mi. Etiam feugiat non nulla sed tincidunt. 
-            Duis vehicula magna viverra mauris porttitor, et finibus mauris aliquam.
+        <p>{{ msg }}
         </p>
     </div>
   </div>
