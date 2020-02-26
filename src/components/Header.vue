@@ -8,7 +8,7 @@
         <li><a href="url">Topic 3</a></li>
         <li><a href="url">Topic 4</a></li>
     </ul>
-    <input type="text" id="search" name="search" value="Search">
+    <input type="text" id="search" name="search" placeholder="Search">
     </div>
     <h1>{{ msg }}</h1>
     

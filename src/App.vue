@@ -31,10 +31,23 @@ export default {
 </script>
 
 <style>
+
+#article{
+    border:1px solid;
+    height: 210px;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 5px;
+    width: 500px;    
+}
+div{
+    margin-right: auto;
+    margin-left: auto;
+}
 #app {
   color: #2c3e50;
   margin-top: 60px;  
 }
 </style>
-
-//  text-align: center;

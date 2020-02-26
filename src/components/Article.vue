@@ -28,11 +28,18 @@ export default {
     height: 200px;    
 }
 .texto {
-    position:relative;
-    float: left;    
-    border-style: solid;
-    width: 300px;
-    height: 200px;
+    border:1px solid;
+    height: 210px;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 5px;
+    width: 500px;
+}
+div{
+    margin-right: auto;
+    margin-left: auto;
 }
 ul {
     padding:0px;
